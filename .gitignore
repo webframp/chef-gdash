@@ -1,4 +1,12 @@
-# Ignore IDEA project files
-*.iml
-*.ipr
-*.iws
+.bundle
+.cache
+bin
+.vagrant
+.kitchen/
+.kitchen.local.yml
+Berksfile.lock
+Gemfile.lock
+vendor
+tmp
+.librarian
+Cheffile.lock
